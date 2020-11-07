@@ -1,0 +1,3 @@
+mongo-db-connection-string: "mongodb://localhost:27017/BlacklistDB"
+mongo-db-name: "BlacklistDB"
+mongo-collection-name: "Blacklist"
